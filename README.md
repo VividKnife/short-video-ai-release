@@ -25,7 +25,10 @@
   **macOS**
   1. Download the `.dmg` file
   2. Open it and drag **ShortVideo AI** to your Applications folder
-  3. Launch from Applications
+  4. Open 'terminal' app in your Mac.
+  5. copy and past this command  
+     ```xattr -cr "/Applications/ShortVideo AI.app"```
+  6. Launch from Applications
 
   **Windows**
   1. Download the `.exe` installer
